@@ -1,7 +1,7 @@
 {
   "name": "ember-editorjs",
-  "version": "0.1.0",
-  "description": "EditorJS array handling (for front-end) as ember components.",
+  "version": "0.1.1",
+  "description": "Ember component for EditorJS array handling (only on front-end).",
   "keywords": [
     "ember-addon"
   ],
