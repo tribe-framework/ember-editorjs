@@ -1,0 +1,7 @@
+{{#if (eq @block.type "paragraph")}}
+	<p data-aos="fade-in">{{{@block.data.text}}}</p>
+{{else if (eq @block.type "image")}}
+	<img data-aos="fade-in" src="{{@block.data.file.url}}" class="w-100 image-fluid mb-3" />
+{{else if (eq @block.type "raw")}}
+	<div class="w-100 mb-2 editorjs-raw-html">{{{@block.data.html}}}</div>
+{{/if}}

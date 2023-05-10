@@ -1,6 +1,6 @@
 # ember-editorjs
 
-[Short description of the addon.]
+Ember component for EditorJS array handling (only on front-end).
 
 
 ## Compatibility
@@ -19,7 +19,7 @@ ember install ember-editorjs
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+<Editorjs @jsondata={{@editorjsVariableFromDatabase}} />
 
 
 ## Contributing
