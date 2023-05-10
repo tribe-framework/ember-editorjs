@@ -1,7 +1,7 @@
 {
   "name": "ember-editorjs",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "EditorJS array handling (for front-end) as ember components.",
   "keywords": [
     "ember-addon"
   ],
